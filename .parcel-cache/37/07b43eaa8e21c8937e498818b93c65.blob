@@ -1,0 +1,7 @@
+#screen {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+}
+
+/*# sourceMappingURL=index.HASH_REF_ac8051dbac4583055e126db48509f795.css.map */

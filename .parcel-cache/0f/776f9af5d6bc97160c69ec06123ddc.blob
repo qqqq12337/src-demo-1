@@ -1,0 +1,4 @@
+const divScreen = document.querySelector("#screen");
+const btnCreateNumber = document.querySelector("#createNumber");
+const btnCreateNumber = document.querySelector("callNumber");
+const spanNewNumber = document.querySelector("#newNumber");
